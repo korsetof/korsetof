@@ -1,7 +1,5 @@
 <div align="center">
 
-# NIKITA
-
 **Developer · Cybersecurity · IT**
 
 Building useful things, learning how systems work, and turning ideas into working software.

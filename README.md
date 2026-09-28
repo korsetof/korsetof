@@ -51,15 +51,6 @@ I like building things from the ground up, understanding how they work under the
 
 ---
 
-## 🚧 Currently
-
-- Building new projects and experiments
-- Developing my full-stack skills
-- Studying cybersecurity and information security
-- Exploring infrastructure and automation
-
----
-
 ## 📂 Projects
 
 My profile will grow together with my projects.
@@ -70,24 +61,6 @@ My profile will grow together with my projects.
 
 > Individual repositories are pinned below as the portfolio grows.
 
----
-
-## 📊 GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=korsetof&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korsetof&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" />
-</p>
-
----
-
-## 🧭 Roadmap
-
-**Build → Learn → Secure → Ship**
-
-Projects · Skills · Cybersecurity · Open source
-
----
 
 ## 🤝 Connect
 

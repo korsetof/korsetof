@@ -27,25 +27,6 @@ I like building things from the ground up, understanding how they work under the
 
 ---
 
-## ⚡ What I work with
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Development
-
-- TypeScript / JavaScript
-- React
-- Node.js / Express
-- PostgreSQL
-- Drizzle ORM
-- Tailwind CSS
-- C#
-
-</td>
-<td valign="top" width="50%">
-
 ### Security & Systems
 
 - Information security
